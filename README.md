@@ -1,2 +1,2 @@
 # Artomat
-A School Project at BBB
+A School project at BBB
